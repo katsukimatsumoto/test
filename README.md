@@ -1,2 +1,2 @@
-# test
-test for connecting between Atom, free editor and Git Hub
+# practice
+practice for edditing by Atom, free editor and Git Hub
